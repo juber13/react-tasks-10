@@ -3,7 +3,7 @@ import React from 'react'
 
 const Header = () => {
     return (
-        <div className='bg-gray-300 p-4 text-center text-2xl font-semibold shadow-md'>Tab</div>
+        <div className='bg-gray-300 p-4 text-center text-2xl font-semibold shadow-md'>Aanagrame Checker</div>
     )
 }
 
