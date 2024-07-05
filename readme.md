@@ -1,7 +1,7 @@
 ## Anangrame
 # [Link](https://react-tasks-10.vercel.app) 
 
-## backggroud
+## Backgroud Changer
 # [Link](https://react-tasks-10-8wbr.vercel.app/) 
 
 ## Counter
